@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on growing my coding skills.
+I'm currently working on growing my coding skills for research.
 <!--
 **lgvanlin/lgvanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
